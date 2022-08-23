@@ -1,4 +1,9 @@
 spring:
   datasource:
-    url: jdbc:h2:mem:MessageDB;
+    url: jdbc:h2:mem:AppointmentDB;
+  jpa:
+    show-sql: true
 environment: LOCAL
+
+shop-service:
+  base-url: http://localhost:9999/shopservice

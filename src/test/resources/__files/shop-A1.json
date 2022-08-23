@@ -1,0 +1,6 @@
+{
+  "shopId": 100,
+  "shopNumber": "A1",
+  "address": "123 Main St",
+  "availableServices": [ "Service 1" ]
+}
